@@ -8,7 +8,7 @@ Creating Red Bull website using Flask Framework.
 
 <li><b><i>Flask</i></b><br></li>
 
-## How To Use 🔧
+## How To Use 🖥️:
 
 
 - Clone this repository<br>
@@ -27,8 +27,19 @@ Creating Red Bull website using Flask Framework.
 - Run Python file<br>
 `python Website.py`
 
+## Screenshots 📸:
+<p align="center"><h3 align="center">Home Page</h3>
+  <img src="https://github.com/ParagD25/RedBull_Website/blob/master/examples/home.png" alt="Heroku Home" width="100%">
+</p>
+<p align="center"><h3 align="center">Products</h3>
+  <img src="https://github.com/ParagD25/RedBull_Website/blob/master/examples/product1.png" alt="Heroku Product" width="100%">
 
-<h2 align="center">
-  <img src="#" alt="Home" width="100%">
-</h2>
+  <img src="https://github.com/ParagD25/RedBull_Website/blob/master/examples/product2.png" alt="Heroku Product" width="100%">
+</p>
+<p align="center"><h3 align="center">Contact US</h3>
+  <img src="https://github.com/ParagD25/RedBull_Website/blob/master/examples/contact.png" alt="Heroku Contact" width="100%">
+</p>
 
+## Contributing ©️:
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
