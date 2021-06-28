@@ -23,7 +23,7 @@ Creating Red Bull website using Flask Framework.
 `python3 -m venv venv`
 - Activate virtual python environment<br>
 `source venv/bin/activate`
-- Install all the libraries mentioned in [requirements.txt](https://github.com/aydinnyunus/WhatsappBOT/blob/master/requirements.txt) using  `pip install -r requirements.txt`
+- Install Flask  `pip install flask`
 - Run Python file<br>
 `python Website.py`
 
